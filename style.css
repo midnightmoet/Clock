@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: black;
+  background: rgb(47, 40, 40);
   font-family: "Courier New", Courier, monospace;
   display: flex;
   justify-content: center;
